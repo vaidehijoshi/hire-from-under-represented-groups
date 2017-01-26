@@ -20,3 +20,21 @@ If you'd like to add an organization (or many!), check out the [CONTRIBUTING.md]
 Aimed towards: women in tech | 
 [Website](https://www.hiretechladies.com/) | 
 [Job Posting Contact](https://www.hiretechladies.com/partners/)
+
+Please check out the [CONTRIBUTING.md](https://github.com/vaidehijoshi/hire-from-under-represented-groups/blob/master/CONTRIBUTING.md) file for guidelines for contributing.
+
+
+**National Society of Black Engineers**
+Aimed towards: Black students and professionals in engineering |
+[Website](http://www.nsbe.org/home.aspx) |
+[Job Posting Contact](https://www.hiretechladies.com/partners/) |
+
+**Women who Code**
+Aimed towards: Women in Engineering |
+[Website](https://www.womenwhocode.com) |
+[Job Posting Contact](https://www.womenwhocode.com) |
+
+**People of Color in Tech(POCIT)**
+Aimed towards: People of color in tech |
+[Website](http://peopleofcolorintech.com/) |
+[Job Posting Contact](http://peopleofcolorintech.com/) |
