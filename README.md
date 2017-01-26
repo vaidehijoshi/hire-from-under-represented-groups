@@ -28,7 +28,7 @@ Aimed towards: women in tech |
 **National Society of Black Engineers**
 Aimed towards: Black students and professionals in engineering |
 [Website](http://www.nsbe.org/home.aspx) |
-[Job Posting Contact](https://www.hiretechladies.com/partners/) |
+[Job Posting Contact](https://www.careerwebsite.com/employer/login?goto=%2Fr%2Fjobs%2Fpost%2Fpost%2Ecfm%3Fsite%255Fid%3D16477%26msessid%3D90fh7%26site_id%3D16477&site_id=16477&clientid=&msessid=Kvd91) |
 
 **Women Who Code**
 Aimed towards: Women in Engineering |
